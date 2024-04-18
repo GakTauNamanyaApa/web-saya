@@ -1,0 +1,47 @@
+*, 
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(foto/Download\ Beautiful\ Night\ Landscape\ With\ Mountain\ And\ Lake\ for\ free.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 10px;
+}
+
+.div-1{
+    border: 3px solid black;
+    
+}
+
+.div-2{
+    color: aliceblue;
+    padding-top: 10px;
+    text-align: justify;
+}
+
+.video-1{
+    padding-top: 10px;
+    padding-left: 50%;
+    position: relative;
+    align-content: center;
+    height: 300px;
+    width: auto;
+}
+
+.h1{
+    color: rgb(255, 255, 255);
+    list-style: none;
+    font-variant: small-caps;
+    text-align: center;
+    font-size: 50px;
+}
+
+.marquee-1{
+    color: goldenrod;
+    font-style: italic;
+    font-size: 20px;
+    padding-top: 5px;
+}

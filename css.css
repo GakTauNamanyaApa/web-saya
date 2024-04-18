@@ -1,0 +1,101 @@
+*html{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(/foto/ysociety.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 100%;
+    cursor: pointer;
+}
+
+.div-kepala{
+    border: 10px solid red;
+    margin: auto;
+    padding-top: 1px;
+}
+
+.li-kepala-1 {
+    color: antiquewhite;
+    text-align: center;
+    font-size: 40px;
+    padding: 0;
+    margin-top: 10px;
+}
+
+.li-kepala-2 {
+    padding: 0;
+    margin: 0;
+    color: aqua;
+}
+
+.li-kepala-3 {
+    color: brown;
+}
+
+.video-isi-1 {
+    height: 50%;
+    width: 50%;
+    padding: 0;
+    margin-left: 95vh;
+    margin-top: 11vh;
+    position: absolute;
+}
+
+.h1-isi-1 {
+    padding-right: 52%;
+    padding-top: 5px;
+    padding-left: 5px;
+    color: rgb(255, 255, 255);
+
+}
+
+.h2-isi-2 {
+    padding-right: 52%;
+    padding-top: 5px;
+    padding-left: 5px;
+    color: aliceblue;
+    text-align: justify;
+    
+}
+
+.ul-1 {
+    display:flex;
+    padding: 0;
+    margin: 0;
+    
+}
+
+button {
+    color: rgb(255, 255, 255);
+    margin-top: 5vh;
+    margin-left: 47%;
+    padding: 0px;
+    background-color: rgb(111, 226, 255);
+    text-decoration: none;
+    cursor: pointer;
+    display: flex;
+    justify-content:center;
+}
+
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 2vh 4vh;
+}
+
+img {
+    margin: 0;
+}
+
+ul {
+    display: flex;
+    
+}
+
+li {
+    display: flex;
+    text-decoration: none;
+}
